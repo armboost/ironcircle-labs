@@ -1,5 +1,5 @@
-Cybersecurity Bootcamp Lab Work - IronCircle & NTID
-This repository contains comprehensive lab work and Capture The Flag (CTF) challenges completed through an intensive 10-month cybersecurity bootcamp offered by IronCircle in collaboration with the National Institute of Technology and Deafness (NTID). The program was designed for individuals with diverse technical backgrounds and utilized an AI-enhanced learning platform to accelerate skill development.
+Cybersecurity Bootcamp Lab Work - IronCircle
+This repository contains comprehensive lab work and Capture The Flag (CTF) challenges completed through an intensive 10-month cybersecurity bootcamp offered by IronCircle. The program was designed for individuals with diverse technical backgrounds and utilized an AI-enhanced learning platform to accelerate skill development.
 Throughout this bootcamp, I engaged with practical, hands-on exercises covering core cybersecurity domains including threat intelligence, digital forensics, network security analysis, and incident response. Each lab represents real-world scenarios and methodologies that are directly applicable to professional cybersecurity roles.
 Key Areas Covered:
 
